@@ -1,0 +1,41 @@
+.container{
+  margin-bottom:60px;
+}
+
+.buy-now{
+  color:white;
+  background-color:black;
+  border-radius: 6px;
+  padding:5px 13px;
+}
+.card-item-head{
+  margin-bottom:50px;
+  align-items: center;
+}
+.see-all{
+  text-decoration: none;
+  color:orange;
+}
+.pale-ordr{
+  height: 500px;
+  width:500px;
+}
+.cata{
+  padding:10px 30px;
+}
+.cata1,.cata2,.cata3{
+  box-shadow: 5px 5px 10px lightgrey;
+  margin-right: 10px;
+}
+.cata1{
+  padding:80px 5px;
+}
+.cata2{
+  padding:135px 10px;
+}
+.cata3{
+  padding:10px 10px;
+}
+.cata2-pic1{
+  display:block;
+}
